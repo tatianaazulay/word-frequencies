@@ -1,11 +1,11 @@
 # word-frequencies
 The program 
-	asks the user to input a path to a text file
-	reads from the text file
-	captures the data into a data structure
-	counts the appearance of each unique word in the text file
-	prints out a word frequency list in the following format:
-	number of occurrences: word
+* asks the user to input a path to a text file
+* reads from the text file
+* captures the data into a data structure
+* counts the appearance of each unique word in the text file
+* prints out a word frequency list in the following format:
+* number of occurrences: word
 
 Punctuation marks are eliminated from each word.
 Stopwords (such as the, a) are filtered out from the analysis. HashSet is used to store string values of stopwords
