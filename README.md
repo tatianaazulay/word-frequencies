@@ -15,17 +15,18 @@ reading the file.
 - Search on a HashMap is O(1), which allows to check if the next word from the file is already in a HashMap 
 and if yes, increase the number of its occurences in constant time.
 - Keys are not case sensitive.
-
+<div class="paragraph"><p><br>
 Example commands for running this file:
  *  Compilation:  javac wordFrequencies.java
  *  Execution:    java wordFrequencies
- +
-**Sample of input file: song lyrics "Lessons" by Sohn**
-+
+ <br></p></div>
+ <div class="paragraph"><p><br>
+ Sample of input file: song lyrics "Lessons" by Sohn
+  <br></p></div>
 ![inputFile](https://user-images.githubusercontent.com/41156932/70396525-e5114a00-19d7-11ea-8ea0-879d51559089.jpg)
-+
-**Sample of output**
-+
+ <div class="paragraph"><p><br>
+Sample of output
+ <br></p></div>
 ![output](https://user-images.githubusercontent.com/41156932/70396554-24d83180-19d8-11ea-808d-b14a669f1b7f.jpg)
 
  
