@@ -19,6 +19,7 @@ and if yes, increase the number of its occurences in constant time.
 Example commands for running this file:
  *  Compilation:  javac wordFrequencies.java
  *  Execution:    java wordFrequencies<br/>
-**Sapmle of input file: song lyrics "Lessons" by Sohn**<br/>
+**Sample of input file: song lyrics "Lessons" by Sohn**<br/>
+![inputFile](https://user-images.githubusercontent.com/41156932/70396525-e5114a00-19d7-11ea-8ea0-879d51559089.jpg)<br/>
 **Sample of output**
  
