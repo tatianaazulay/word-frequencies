@@ -21,5 +21,7 @@ Example commands for running this file:
  *  Execution:    java wordFrequencies<br/>
 **Sample of input file: song lyrics "Lessons" by Sohn**<br/>
 ![inputFile](https://user-images.githubusercontent.com/41156932/70396525-e5114a00-19d7-11ea-8ea0-879d51559089.jpg)<br/>
-**Sample of output**
+**Sample of output**<br/>
+![output](https://user-images.githubusercontent.com/41156932/70396554-24d83180-19d8-11ea-808d-b14a669f1b7f.jpg)
+
  
