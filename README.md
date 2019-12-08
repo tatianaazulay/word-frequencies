@@ -14,19 +14,19 @@ reading the file.
 - Words from the text file are stored in a HashMap where the word is stored as a key and a number of occurences stored as a value.
 - Search on a HashMap is O(1), which allows to check if the next word from the file is already in a HashMap 
 and if yes, increase the number of its occurences in constant time.
-- Keys are not case sensitive.
-<div class="paragraph"><p><br>
+- Keys are not case sensitive.<br/>
+
 Example commands for running this file:
  *  Compilation:  javac wordFrequencies.java
  *  Execution:    java wordFrequencies
- <br></p></div>
- <div class="paragraph"><p><br>
+ 
+ <div class="paragraph">
  Sample of input file: song lyrics "Lessons" by Sohn
-  <br></p></div>
+ </div><br/>
 ![inputFile](https://user-images.githubusercontent.com/41156932/70396525-e5114a00-19d7-11ea-8ea0-879d51559089.jpg)
- <div class="paragraph"><p><br>
+ <div class="paragraph">
 Sample of output
- <br></p></div>
+</div><br/>
 ![output](https://user-images.githubusercontent.com/41156932/70396554-24d83180-19d8-11ea-808d-b14a669f1b7f.jpg)
 
  
