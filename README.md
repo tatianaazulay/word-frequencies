@@ -4,7 +4,7 @@ The program
 2. reads from the text file
 3. captures the data into a data structure
 4. counts the appearance of each unique word in the text file
-5. prints out a word frequency list in the following format:
+5. prints out a word frequency list in the following format:<br/>
  number of occurrences: word
 
 - Punctuation marks are eliminated from each word.
