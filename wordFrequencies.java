@@ -5,7 +5,7 @@
  *  Execution:    java wordFrequencies
  *
  *  Asks the user to input a path to a text file. It counts the appearance of each unique word in the file 
- *  and prints out a word frequency list in descending order sorted by number of occurences.
+ *  and prints out a word frequency list in descending order sorted by number of occurrences.
  *  Stopwords (such as the, a) are filtered out from the analysis.
  *  Words are not case sensitive. 
  *
